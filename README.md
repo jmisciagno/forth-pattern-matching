@@ -20,7 +20,7 @@ Example:
     ;
 
     #t eval . cr             \ -1
-    #f test2 . cr.           \ 0
-    #f notb test2 . cr.      \ -1
-    #t #f andb test2 . cr.   \ 0
-    #t #f orb test2 . cr.    \ -1
+    #f test2 . cr            \ 0
+    #f notb test2 . cr       \ -1
+    #t #f andb test2 . cr    \ 0
+    #t #f orb test2 . cr     \ -1
